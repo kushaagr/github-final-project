@@ -1,2 +1,8 @@
-# github-final-project
-Module 3 final project of https://www.edx.org/learn/github/ibm-git-and-github-basics
+# Simple Interest Calculator bash script
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
